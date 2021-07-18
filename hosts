@@ -2,5 +2,5 @@
 3.231.215.56 ansible_user=ubuntu os_type="Ubuntu"
 
 [kubernetes-worker-nodes]
-3.231.215.56 ansible_user=ubuntu  os_type="Ubuntu"
+3.231.33.54 ansible_user=ubuntu  os_type="Ubuntu"
 3.218.141.67 ansible_user=ubuntu  os_type="Ubuntu"
